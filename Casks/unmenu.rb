@@ -1,9 +1,9 @@
 cask "unmenu" do
-  version "0.1"
-  sha256 "94b5dfa84f226f7ab7602a60281380bfec6e6ac7adaa1ea1d1405c0735d2b428"
+  version "0.2"
+  sha256 "7387ded60f570535d1e8ab499f99e3cb6f2ae12c9433faf984657735dd73b5d6"
 
-  url "https://github.com/unmanbearpig/unmenu/releases/download/v0.1/unmenu.app.zip"
-  name "unmenu" 
+  url "https://github.com/unmanbearpig/unmenu/releases/download/v0.2/unmenu.app.zip"
+  name "unmenu"
   homepage "https://github.com/unmanbearpig/unmenu"
 
   app "unmenu.app"
